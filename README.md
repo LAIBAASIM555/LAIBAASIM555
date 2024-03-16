@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LAIBAASIM555
+- 👋 Hi, I’m Laiba Asim 
 - 👀 I’m interested in coding 
 - 🌱 I’m currently studing INFORMATION TECHANOLOGY
 - 📫 How to contact me : juat mail me laibaasimjaved954@gmail.com
