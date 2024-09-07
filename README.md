@@ -105,16 +105,8 @@ I'm always excited to connect with like-minded individuals who are passionate ab
 
 <br/>  
 
-  
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=laibaasim555&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
 ----
