@@ -118,4 +118,3 @@ I'm always excited to connect with like-minded individuals who are passionate ab
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
