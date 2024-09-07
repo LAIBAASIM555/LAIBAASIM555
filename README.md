@@ -1,11 +1,9 @@
 <img src="https://user-images.githubusercontent.com/44807606/125307809-c0ddc380-e306-11eb-9155-f5dc796d3163.gif" align="left" height="" width="1000" />  
-
-
+  
 ## 👋 Hi, I'm LAIBA!
   
-
 I'm an enthusiastic IT student currently in my 4th semester, aspiring to become a data scientist. I have a passion for data analysis, machine learning, and programming, and I’m always eager to learn new things!
-
+  
 ## 🎓 About Me
 
 - 🎓 **Student**: IT, 4th Semester
