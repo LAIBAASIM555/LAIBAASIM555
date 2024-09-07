@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/44807606/125307809-c0ddc380-e306-11eb-9155-f5dc796d3163.gif" align="left" height="" width="900" />  
+<img src="https://user-images.githubusercontent.com/44807606/125307809-c0ddc380-e306-11eb-9155-f5dc796d3163.gif" align="left" height="" width="1000" />  
 
 
 ## 👋 Hi, I'm LAIBA!
