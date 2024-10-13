@@ -1,60 +1,94 @@
-<img src="https://user-images.githubusercontent.com/44807606/125307809-c0ddc380-e306-11eb-9155-f5dc796d3163.gif" align="left" height="" width="1000" />  
-  
-## 👋 Hi, I'm LAIBA!
-  
-I'm an enthusiastic IT student currently in my 4th semester, aspiring to become a data scientist. I have a passion for data analysis, machine learning, and programming, and I’m always eager to learn new things!
-  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/44807606/125307809-c0ddc380-e306-11eb-9155-f5dc796d3163.gif" 
+       align="center" 
+       height="" 
+       width="1000" 
+       style="border-radius: 30px; margin-bottom: 20px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.05)';" 
+       onmouseout="this.style.transform='scale(1)';"/>
+</div>
+
+
+## 👋 Welcome to My Profile!
+
+I'm **LAIBA**, an enthusiastic IT student in my **3rd Year**, with a passion for **data science**, **machine learning**, and **programming**. My goal is to harness the power of data to drive innovation and solve real-world problems.
+
+---
+
 ## 🎓 About Me
 
-- 🎓 **Student**: IT, 4th Semester
-- 💡 **Aspiring**: Data Scientist
-- 📊 **Current Role**: Data Analyst
+- 🎓 **Field of Study**: IT, 4th Semester
+- 💡 **Aspiring Role**: Data Scientist
+- 📊 **Current Position**: Data Analyst
 
-I'm working on building a strong foundation in data science and analytics, leveraging my knowledge in various programming languages and tools.
+I am committed to building a strong foundation in **data science** and **analytics** by leveraging various programming languages and tools.
 
-## 🌟 Projects
+---
 
-I love creating projects that solve real-world problems and enhance my learning. Here are a few projects I've worked on:
+## 🌟 Featured Projects
+
+I enjoy working on projects that have a meaningful impact. Here are some highlights:
 
 - **Python Projects**:
-  - 🕹️ **Games**: Developed fun games like Rock-Paper-Scissors.
-  - ☕ **Coffee Machine Simulator**: Built a coffee machine simulator using Python.
+  - 🕹️ **Interactive Games**: Created engaging games like Rock-Paper-Scissors.
+  - ☕ **Coffee Machine Simulator**: Developed a functional coffee machine simulator using Python.
+  
 - **Web Projects**:
-  - 🌐 Created simple web pages using HTML and CSS.
-- **Current Work**:
-  - 🔍 **Learning Machine Learning and Deep Learning**: Working on projects to understand the core concepts and apply them in real-world scenarios.
-  - 📊 **Data Analysis**: Exploring data with libraries like NumPy and Pandas.
+  - 🌐 Designed responsive web pages with HTML and CSS.
 
-## 🚀 What I'm Learning
+- **Current Focus**:
+  - 🔍 **Machine Learning & Deep Learning**: Delving into projects to grasp essential concepts and practical applications.
+  - 📊 **Data Analysis**: Utilizing libraries like NumPy and Pandas to extract insights from data.
 
-- **Machine Learning**: Understanding algorithms and their applications.
-- **Deep Learning**: Diving deep into neural networks and their architectures.
-- **Data Science Libraries**: Enhancing my skills with NumPy, Pandas, Scikit-Learn, and TensorFlow.
+---
+
+## 🔍 Best Repositories
+
+Here are some of my standout repositories showcasing my skills:
+
+- [🎮 Rock-Paper-Scissors Game](https://github.com/LAIBAASIM555/rock-paper-scissors): An interactive game built with Python.
+- [☕ Coffee Machine Simulator](https://github.com/LAIBAASIM555/coffee-machine-simulator): A project simulating coffee machine operations.
+- [📊 Sales Prediction Model](https://github.com/LAIBAASIM555/sales-prediction): A machine learning model for predicting sales based on historical data.
+- [📈 Stock Portfolio Tracker](https://github.com/LAIBAASIM555/stock-portfolio-tracker): A Python application for tracking and analyzing stock portfolios.
+
+---
+
+## 🚀 Learning Journey
+
+- **Machine Learning**: Exploring algorithms and their applications in various domains.
+- **Deep Learning**: Understanding neural networks and their architectures.
+- **Data Science Libraries**: Mastering tools like NumPy, Pandas, Scikit-Learn, and TensorFlow for data analysis.
+
+---
 
 ## ⚡ Fun Facts
 
-- 🌱 I’m currently learning Machine Learning and Deep Learning.
-- 🎮 I enjoy coding small games and working on interesting Python projects.
-- ☕ I’m a coffee enthusiast who loves experimenting with new brews.
+- 🌱 Currently diving into **Machine Learning** and **Deep Learning**.
+- 🎮 Enjoy developing small games and interesting Python projects.
+- ☕ A coffee enthusiast who loves experimenting with different brewing methods.
+
+---
 
 ## 🌍 Let's Connect!
 
-I'm always excited to connect with like-minded individuals who are passionate about data science, technology, and innovation. Let's collaborate and create something amazing together!
-  
+I’m always excited to network with like-minded individuals passionate about **data science**, **technology**, and **innovation**. Let's collaborate to create amazing solutions together!
+
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/laiba-asim-169406317/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/laiba-asim-169406317/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;" />
 </a>
 <a href="https://github.com/laibaasim555" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;" />
 </a>
 <a href="https://instagram.com/laibaasim555" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px;" />
 </a>
 <a href="https://www.kaggle.com/laibaasim" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin: 5px;" />
 </a>  
 </div>   
+
+---
 
 ## 🔧 Skills
 
@@ -62,8 +96,7 @@ I'm always excited to connect with like-minded individuals who are passionate ab
 - **Data Analysis Tools**: NumPy, Pandas
 - **Data Structures**: Arrays, Linked Lists, Trees, Graphs, and more
 - **Other Tools**: Blender
-- **Concepts**: Operating Systems, Machine Learning, Deep Learning  
-  
+- **Core Concepts**: Operating Systems, Machine Learning, Deep Learning  
 
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -76,20 +109,16 @@ I'm always excited to connect with like-minded individuals who are passionate ab
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="25" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="25" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
 <a href="https://www.windicss.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/windicss.svg" alt="Windi CSS" height="25" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-</div>  
-
-<br/>  
 
 
+---
 ## 📊 GitHub Stats  
 <table><tr><td valign="top" width="50%">
 
