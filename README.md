@@ -17,7 +17,7 @@ I'm **LAIBA**, an enthusiastic IT student in my **3rd Year**, with a passion for
 
 ## 🎓 About Me
 
-- 🎓 **Field of Study**: IT, 4th Semester
+- 🎓 **Field of Study**: Information Technology
 - 💡 **Aspiring Role**: Data Scientist
 - 📊 **Current Position**: Data Analyst
 
