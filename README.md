@@ -39,7 +39,7 @@ class LaibaAsim:
     def __init__(self):
         self.name = "Laiba Asim"
         self.role = "Data Science Enthusiast & Python Developer"
-        self.education = "3rd Year IT Student"
+        self.education = "4rd Year IT Student"
         self.current_focus = ["Machine Learning", "Deep Learning", "Python Projects"]
         self.goals = ["Become Data Scientist", "Build Impactful ML Solutions"]
         self.passion = "Harness the power of data to drive innovation"
