@@ -12,7 +12,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎓_IT_Student-3rd_Year-FF6A00?style=for-the-badge&logo=graduation-cap" />
+  <img src="https://img.shields.io/badge/🎓_IT_Student-4rd_Year-FF6A00?style=for-the-badge&logo=graduation-cap" />
   <img src="https://img.shields.io/badge/💡_Aspiring-Data_Scientist-EE0979?style=for-the-badge&logo=chart-line" />
   <img src="https://img.shields.io/badge/📊_Current-Data_Analyst-00D4FF?style=for-the-badge&logo=analytics" />
   <img src="https://img.shields.io/badge/⚡_Python-Developer-3776AB?style=for-the-badge&logo=python" />
